@@ -1,8 +1,7 @@
-<a href="https://github.com/ceifa">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceifa" />
-</a>
+### Hi, I'm ceifa 😄
+---
 
-### I'm ceifa
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceifa" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
