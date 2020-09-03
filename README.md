@@ -1,8 +1,11 @@
 ### Hi, I'm ceifa 😄
 ---
 
+<a href="https://youtu.be/otCpCn0l4Wo">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceifa" />
+</a>
 
+- ⛳ I'm from Brazil
 - 🔨 I’m currently working at [Take](https://take.net)
 - 👾 I’m currently helping the [Garry's Mod Brasil](https://discord.gg/ug5JPH) community
 - 🎨 I’m currently helping the [Svelte Brasil](https://github.com/svelte-brasil) community
