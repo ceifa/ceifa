@@ -4,7 +4,6 @@
 <a href="https://youtu.be/otCpCn0l4Wo">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceifa" />
 </a>
-<br>
 
 - ⛳ I'm from Brazil
 - 🔨 I’m currently working at [Take](https://take.net)
