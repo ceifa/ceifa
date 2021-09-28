@@ -6,7 +6,7 @@
 </a>
 
 - ⛳ I'm from Brazil
-- 🔨 I’m currently working at [Take](https://take.net)
+- 🔨 I’m currently working as CTO of [Scripe](https://scripe.ai)
 - 👾 I’m currently helping the [Garry's Mod Brasil](https://discord.gg/ug5JPH) community
 - 🎨 I’m currently helping the [Svelte Brasil](https://github.com/svelte-brasil) community
 - 💻 I'm currently in love with Rust, C# and Typescript
